@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @napoleonpempena
+- 👀 I’m a PhD student in high pressure mineral physics at Princeton University, New Jersey, USA
+- 🌱 I’m currently learning molecular dynamics simulations using VASP and associated software on parallel computing
+- 📫 How to reach me: napoleon@princeton.edu
